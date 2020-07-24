@@ -1,16 +1,26 @@
 # jokenpo
 
-A new Flutter project.
+Projeto de um jogo apenas para por em prática conceitos de :
 
-## Getting Started
+ - MVC
+ - Provider
+ - Testes unitários 
+ 
+# Estrutura do projeto
 
-This project is a starting point for a Flutter application.
+  - Padrão MVC
+    - Funcionalidade 
+      - controller
+      - model
+      - imagens
+      - repository
+      - view
+   - Provider como controle de estado concentrado no AppWidget para ser utilizado em qualquer parte do app pelo o comsumer.
 
-A few resources to get you started if this is your first Flutter project:
+# Execução
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt text](https://github.com/edilsonvilarinho/jokenpo/blob/master/images/Android-Emulator-Pixel_3_XL_API_28_5554-23_07_2020-23_16_32.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependências 
+
+ - provider:  
